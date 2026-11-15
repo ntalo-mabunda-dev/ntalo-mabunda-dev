@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Ntalo Mabunda 👋
+BSc Computer Science Applicant 2027 |Muswane Village, Malamulele, Limpopo
 
-<!--
-**ntalo-mabunda-dev/ntalo-mabunda-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎯 **Goal:** Study BSc Computer Science in 2027
+- 💻 **Skills Learning:** Python, Java, HTML, CSS, Git
+- 🌱 **Mission:** Build tech solutions for rural communities in Limpopo
+- 📍 From Thulamela, Limpopo, South Africa
 
-Here are some ideas to get you started:
+#### About Me
+Passionate about software development and solving real problems with code. Currently on a gap year focused on learning programming to prepare for university. Documenting my journey here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### What I'm Working On
+- Learning Python fundamentals
+- Building my first portfolio website
+- Practicing GitHub daily
+
+"Rural background, big tech dreams.”
+
+
+⭐ Thanks for visiting my profile!
